@@ -1,0 +1,11 @@
+#container{
+	max-width: 800px;
+	margin: 0 auto;
+}
+#header{
+	background-image: url("Ablassbriefe_header.png");
+}
+#buyform{
+	margin: 0 auto;
+	
+}
